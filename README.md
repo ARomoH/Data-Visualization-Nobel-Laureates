@@ -1,5 +1,5 @@
 # Data-Visualization-Nobel-Laureates
-Data Visualization using a interactive dashboard create in Tableu. Data set that has been used for this analysis is "Nobel Laureates, 1901-Present" avaiable in Kaggle. Data has been processed before create dashboard for adding several fields. Due to the file has twbx extension, it is not necessary original dataset for execute and visualize the project.
+Data Visualization using a interactive dashboard create in Tableau. Data set that has been used for this analysis is "Nobel Laureates, 1901-Present" avaiable in Kaggle. Data has been processed before create dashboard for adding several fields. Due to the file has twbx extension, it is not necessary original dataset for execute and visualize the project.
 The main conclusion obtained are:
 
 - United States is the country with more Nobel prizes.
