@@ -7,6 +7,6 @@ The main conclusion obtained are:
 - While in physics, winners are just one or two people per year. In other categories, such as chemistry, there is a growing trend to work in teams for winning Nobel prize.
 - United States became in main country of receiving talent (people who would win a Nobel prize) from foreing contries after World War II.
 - United Kingdom is the second country of receiving talent. However, it is also who provide more winners of Nobel prizes to USA.
-- Before World War II almost all german Nobel Prize winners with a german institution. But after finish World War II, began a brain drain.
+- Before World War II almost all german winners won with a german institution. But after finish World War II, began a brain drain.
 
 
