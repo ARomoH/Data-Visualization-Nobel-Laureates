@@ -1,0 +1,173 @@
+{
+"children": [
+    {
+        "name": "Directores y gerentes profesionales"
+    },
+    {
+        "children": [
+            {
+                "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
+                "size": 25
+            },
+            {
+                "name": "Directores administradores y comerciales",
+                "size": 25
+            },
+            {
+                "name": "Directores y gerentes de producci\u00f3n y operaciones",
+                "size": 25
+            },
+            {
+                "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
+                "size": 25
+            }
+        ],
+        "name": "Cient\u00edficos e intelectuales"
+    },
+    {
+        "children": [
+            {
+                "name": "Profesionales de las ciencias y de la ingenier\u00eda",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de la salud",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de la ense\u00f1anza",
+                "size": 25
+            },
+            {
+                "name": "Especialistas en organizaci\u00f3n de la administraci\u00f3n publica y de empresas",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                "size": 25
+            },
+            {
+                "name": "Profesionales en derecho, en ciencias sociales y culturales",
+                "size": 25
+            }
+        ],
+        "name": "T\u00e9cnicos y profesionales de nivel medio"
+    },
+    {
+        "children": [
+            {
+                "name": "Profesionales de las ciencias y la ingenier\u00eda de nivel medio",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de nivel medio de la salud",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
+                "size": 25
+            },
+            {
+                "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales, culturales y afines",
+                "size": 25
+            },
+            {
+                "name": "T\u00e9cnicos de la tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                "size": 25
+            }
+        ],
+        "name": "Personal de apoyo administrativo"
+    },
+    {
+        "children": [
+            {
+                "name": "Oficinistas",
+                "size": 25
+            },
+            {
+                "name": "Empleados en trato directo con el p\u00fablico",
+                "size": 25
+            },
+            {
+                "name": "Empleados contables y encargados del registro de materiales",
+                "size": 25
+            },
+            {
+                "name": "Otro personal de apoyo administrativo",
+                "size": 25
+            }
+        ],
+        "name": "Trabajadores de los servicios y vendedores de comercios y mercados"
+    },
+    {
+        "children": [
+            {
+                "name": "Trabajadores de los servicios personales",
+                "size": 25
+            },
+            {
+                "name": "Vendedores",
+                "size": 25
+            },
+            {
+                "name": "Trabajadores de los cuidados personales",
+                "size": 25
+            },
+            {
+                "name": "Personal de los servicios de protecci\u00f3n",
+                "size": 25
+            }
+        ],
+        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
+    },
+    {
+        "name": "Oficiales, operarios y artesanos de artes mec\u00e1nicas y de otros oficios"
+    },
+    {
+        "children": [
+            {
+                "name": "Oficiales y operarios de la construcci\u00f3n excluyendo electricistas",
+                "size": 25
+            },
+            {
+                "name": "Oficiales y operarios de la metalurgia, la construcci\u00f3n mec\u00e1nica y afines",
+                "size": 25
+            },
+            {
+                "name": "Artesanos y operarios de las artes gr\u00e1ficas",
+                "size": 25
+            },
+            {
+                "name": "Trabajadores especializados en electricidad y la elecrotecnolog\u00eda",
+                "size": 25
+            },
+            {
+                "name": "Operarios y oficiales de procesamiento de alimentos, de la confecci\u00f3n, ebanistas, otros artesanos y afines",
+                "size": 25
+            }
+        ],
+        "name": "Operadores de instalaciones y m\u00e1quinas y ensambladores"
+    },
+    {
+        "children": [
+            {
+                "name": "Operadores de instalaciones fijas y m\u00e1quinas",
+                "size": 25
+            },
+            {
+                "name": "Ensambladores",
+                "size": 25
+            },
+            {
+                "name": "Conductores de veh\u00edculos y operadores de equipos pesados m\u00f3viles",
+                "size": 25
+            }
+        ],
+        "name": "Ocupaciones elementales"
+    },
+    {
+        "name": "Ocupaciones militares"
+    }
+],
+"name": "ALL"
+}
