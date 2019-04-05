@@ -1,9 +1,6 @@
 {
 "children": [
     {
-        "name": "Directores y gerentes profesionales"
-    },
-    {
         "children": [
             {
                 "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
@@ -22,7 +19,7 @@
                 "size": 25
             }
         ],
-        "name": "Cient\u00edficos e intelectuales"
+        "name": "Directores y gerentes profesionales"
     },
     {
         "children": [
@@ -51,7 +48,7 @@
                 "size": 25
             }
         ],
-        "name": "T\u00e9cnicos y profesionales de nivel medio"
+        "name": "Cient\u00edficos e intelectuales"
     },
     {
         "children": [
@@ -76,7 +73,7 @@
                 "size": 25
             }
         ],
-        "name": "Personal de apoyo administrativo"
+        "name": "T\u00e9cnicos y profesionales de nivel medio"
     },
     {
         "children": [
@@ -97,7 +94,7 @@
                 "size": 25
             }
         ],
-        "name": "Trabajadores de los servicios y vendedores de comercios y mercados"
+        "name": "Personal de apoyo administrativo"
     },
     {
         "children": [
@@ -118,10 +115,16 @@
                 "size": 25
             }
         ],
-        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
+        "name": "Trabajadores de los servicios y vendedores de comercios y mercados"
     },
     {
-        "name": "Oficiales, operarios y artesanos de artes mec\u00e1nicas y de otros oficios"
+        "children": [
+            {
+                "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+                "size": 150
+            }
+        ],
+        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
     },
     {
         "children": [
@@ -146,7 +149,7 @@
                 "size": 25
             }
         ],
-        "name": "Operadores de instalaciones y m\u00e1quinas y ensambladores"
+        "name": "Oficiales, operarios y artesanos de artes mec\u00e1nicas y de otros oficios"
     },
     {
         "children": [
@@ -163,11 +166,26 @@
                 "size": 25
             }
         ],
+        "name": "Operadores de instalaciones y m\u00e1quinas y ensambladores"
+    },
+    {
+        "children": [
+            {
+                "name": "Ocupaciones elementales",
+                "size": 150
+            }
+        ],
         "name": "Ocupaciones elementales"
     },
     {
+        "children": [
+            {
+                "name": "Ocupaciones militares",
+                "size": 150
+            }
+        ],
         "name": "Ocupaciones militares"
     }
-]
+],
 "name": "ALL"
 }
