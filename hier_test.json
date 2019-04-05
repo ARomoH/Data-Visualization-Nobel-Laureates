@@ -120,8 +120,8 @@
     {
         "children": [
             {
-                "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros val",
-                "value": 4116
+                "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+                "size": 150
             }
         ],
         "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
@@ -171,11 +171,20 @@
     {
         "children": [
             {
-                "name": "Ocupaciones elementales val",
-                "size": 300
+                "name": "Ocupaciones elementales",
+                "size": 150
             }
         ],
         "name": "Ocupaciones elementales"
+    },
+    {
+        "children": [
+            {
+                "name": "Ocupaciones militares",
+                "size": 150
+            }
+        ],
+        "name": "Ocupaciones militares"
     }
 ],
 "name": "ALL"
