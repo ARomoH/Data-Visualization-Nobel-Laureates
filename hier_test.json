@@ -119,7 +119,8 @@
     },
     {
         "children": [],
-        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
+        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+        "size": 50
     },
     {
         "children": [
@@ -165,11 +166,13 @@
     },
     {
         "children": [],
-        "name": "Ocupaciones elementales"
+        "name": "Ocupaciones elementales",
+        "size": 50
     },
     {
         "children": [],
-        "name": "Ocupaciones militares"
+        "name": "Ocupaciones militares",
+        "size": 50
     }
 ],
 "name": "ALL"
