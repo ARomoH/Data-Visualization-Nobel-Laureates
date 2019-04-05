@@ -176,15 +176,6 @@
             }
         ],
         "name": "Ocupaciones elementales"
-    },
-    {
-        "children": [
-            {
-                "name": "Ocupaciones militares val",
-                "value": 4116
-            }
-        ],
-        "name": "Ocupaciones militares"
     }
 ],
 "name": "ALL"
