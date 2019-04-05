@@ -118,13 +118,8 @@
         "name": "Trabajadores de los servicios y vendedores de comercios y mercados"
     },
     {
-        "children": [
-            {
-                "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
-                "size": 100
-            }
-        ],
-        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
+        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+        "value": 16540
     },
     {
         "children": [
@@ -169,22 +164,12 @@
         "name": "Operadores de instalaciones y m\u00e1quinas y ensambladores"
     },
     {
-        "children": [
-            {
-                "name": "Ocupaciones elementales",
-                "size": 100
-            }
-        ],
-        "name": "Ocupaciones elementales"
+        "name": "Ocupaciones elementales",
+        "value": 16540
     },
     {
-        "children": [
-            {
-                "name": "Ocupaciones militares",
-                "size": 100
-            }
-        ],
-        "name": "Ocupaciones militares"
+        "name": "Ocupaciones militares",
+        "value": 16540
     }
 ],
 "name": "ALL"
