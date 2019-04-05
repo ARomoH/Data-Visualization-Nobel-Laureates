@@ -3,18 +3,46 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
+                        "size": 100
+                    }
+                ],
                 "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Directores administradores y comerciales",
+                        "size": 100
+                    }
+                ],
                 "name": "Directores administradores y comerciales",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Directores en distintos ambitos",
+                        "size": 16
+                    },
+                    {
+                        "name": "Directores IT",
+                        "size": 16
+                    }
+                ],
                 "name": "Directores y gerentes de producci\u00f3n y operaciones",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
+                        "size": 100
+                    }
+                ],
                 "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
                 "size": 25
             }
@@ -24,26 +52,98 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "F\u00edsicos, qu\u00edmicos y afines",
+                        "size": 16
+                    },
+                    {
+                        "name": "Matem\u00e1ticos, actuarios y estad\u00edsticos",
+                        "size": 16
+                    },
+                    {
+                        "name": "Profesionales en ciencias biol\u00f3gicas",
+                        "size": 16
+                    },
+                    {
+                        "name": "Ingenieros",
+                        "size": 16
+                    },
+                    {
+                        "name": "Ingenieros en electrotecnolog\u00eda",
+                        "size": 16
+                    },
+                    {
+                        "name": "Dise\u00f1adores gr\u00e1ficos y multimedia",
+                        "size": 16
+                    }
+                ],
                 "name": "Profesionales de las ciencias y de la ingenier\u00eda",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales de la salud",
+                        "size": 100
+                    }
+                ],
                 "name": "Profesionales de la salud",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales de la ense\u00f1anza",
+                        "size": 100
+                    }
+                ],
                 "name": "Profesionales de la ense\u00f1anza",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales en finanzas, organizaci\u00f3n y ventas",
+                        "size": 16
+                    },
+                    {
+                        "name": "Profesionales de ventas de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                        "size": 16
+                    }
+                ],
                 "name": "Especialistas en organizaci\u00f3n de la administraci\u00f3n publica y de empresas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Desarrolladores y analistas de software y multimedia",
+                        "size": 16
+                    },
+                    {
+                        "name": "Especialistas en bases de datos y en redes de computadores",
+                        "size": 16
+                    }
+                ],
                 "name": "Profesionales de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales en derecho",
+                        "size": 16
+                    },
+                    {
+                        "name": "Autores, periodistas y ling\u00fcistas",
+                        "size": 16
+                    },
+                    {
+                        "name": "Psic\u00f3logos",
+                        "size": 16
+                    }
+                ],
                 "name": "Profesionales en derecho, en ciencias sociales y culturales",
                 "size": 25
             }
@@ -53,22 +153,72 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "T\u00e9cnicos en ciencias f\u00edsicas e ingenier\u00eda",
+                        "size": 16
+                    },
+                    {
+                        "name": "Supervisores en ingener\u00eda de minas, de industrias manufactureras y de la construcci\u00f3n",
+                        "size": 16
+                    },
+                    {
+                        "name": "T\u00e9cnicos de control de procesos",
+                        "size": 16
+                    },
+                    {
+                        "name": "T\u00e9cnicos en ciencias biol\u00f3gicas y afines",
+                        "size": 16
+                    },
+                    {
+                        "name": "T\u00e9cnicos y controladores en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
+                        "size": 16
+                    }
+                ],
                 "name": "Profesionales de las ciencias y la ingenier\u00eda de nivel medio",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales de nivel medio de la salud",
+                        "size": 100
+                    }
+                ],
                 "name": "Profesionales de nivel medio de la salud",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
+                        "size": 100
+                    }
+                ],
                 "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales, culturales y afines",
+                        "size": 100
+                    }
+                ],
                 "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales, culturales y afines",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "T\u00e9cnicos en operaciones de tecnolog\u00eda de la informaci\u0144 y las comunciaciones y asistencia al usuario",
+                        "size": 16
+                    },
+                    {
+                        "name": "T\u00e9cnicos en telecomunicaciones y radiodifusi\u00f3n",
+                        "size": 16
+                    }
+                ],
                 "name": "T\u00e9cnicos de la tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
                 "size": 25
             }
@@ -78,18 +228,42 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "Oficinistas",
+                        "size": 100
+                    }
+                ],
                 "name": "Oficinistas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Empleados en trato directo con el p\u00fablico",
+                        "size": 100
+                    }
+                ],
                 "name": "Empleados en trato directo con el p\u00fablico",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Empleados contables y encargados del registro de materiales",
+                        "size": 100
+                    }
+                ],
                 "name": "Empleados contables y encargados del registro de materiales",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Otro personal de apoyo administrativo",
+                        "size": 100
+                    }
+                ],
                 "name": "Otro personal de apoyo administrativo",
                 "size": 25
             }
@@ -99,18 +273,42 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "Trabajadores de los servicios personales",
+                        "size": 100
+                    }
+                ],
                 "name": "Trabajadores de los servicios personales",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Vendedores",
+                        "size": 100
+                    }
+                ],
                 "name": "Vendedores",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Trabajadores de los cuidados personales",
+                        "size": 100
+                    }
+                ],
                 "name": "Trabajadores de los cuidados personales",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Personal de los servicios de protecci\u00f3n",
+                        "size": 100
+                    }
+                ],
                 "name": "Personal de los servicios de protecci\u00f3n",
                 "size": 25
             }
@@ -121,7 +319,7 @@
         "children": [
             {
                 "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
-                "size": 150
+                "size": 100
             }
         ],
         "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
@@ -129,22 +327,52 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "Oficiales y operarios de la construcci\u00f3n excluyendo electricistas",
+                        "size": 100
+                    }
+                ],
                 "name": "Oficiales y operarios de la construcci\u00f3n excluyendo electricistas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Oficiales y operarios de la metalurgia, la construcci\u00f3n mec\u00e1nica y afines",
+                        "size": 100
+                    }
+                ],
                 "name": "Oficiales y operarios de la metalurgia, la construcci\u00f3n mec\u00e1nica y afines",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Artesanos y operarios de las artes gr\u00e1ficas",
+                        "size": 100
+                    }
+                ],
                 "name": "Artesanos y operarios de las artes gr\u00e1ficas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Trabajadores especializados en electricidad y la elecrotecnolog\u00eda",
+                        "size": 100
+                    }
+                ],
                 "name": "Trabajadores especializados en electricidad y la elecrotecnolog\u00eda",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Operarios y oficiales de procesamiento de alimentos, de la confecci\u00f3n, ebanistas, otros artesanos y afines",
+                        "size": 100
+                    }
+                ],
                 "name": "Operarios y oficiales de procesamiento de alimentos, de la confecci\u00f3n, ebanistas, otros artesanos y afines",
                 "size": 25
             }
@@ -154,14 +382,32 @@
     {
         "children": [
             {
+                "children": [
+                    {
+                        "name": "Operadores de instalaciones fijas y m\u00e1quinas",
+                        "size": 100
+                    }
+                ],
                 "name": "Operadores de instalaciones fijas y m\u00e1quinas",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Ensambladores",
+                        "size": 100
+                    }
+                ],
                 "name": "Ensambladores",
                 "size": 25
             },
             {
+                "children": [
+                    {
+                        "name": "Conductores de veh\u00edculos y operadores de equipos pesados m\u00f3viles",
+                        "size": 100
+                    }
+                ],
                 "name": "Conductores de veh\u00edculos y operadores de equipos pesados m\u00f3viles",
                 "size": 25
             }
@@ -172,7 +418,7 @@
         "children": [
             {
                 "name": "Ocupaciones elementales",
-                "size": 150
+                "size": 100
             }
         ],
         "name": "Ocupaciones elementales"
@@ -181,7 +427,7 @@
         "children": [
             {
                 "name": "Ocupaciones militares",
-                "size": 150
+                "size": 100
             }
         ],
         "name": "Ocupaciones militares"
