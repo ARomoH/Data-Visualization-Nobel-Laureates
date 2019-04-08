@@ -168,7 +168,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "Profesionales de ventas de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                        "name": "Ventas de tecnolog\u00eda de la informaci\u00f3n",
                         "size": 16
                     }
                 ],
@@ -275,7 +275,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "T\u00e9cnicos en ciencias f\u00edsicas e ingenier\u00eda",
+                        "name": "Ciencias f\u00edsica",
                         "size": 16
                     },
                     {
@@ -285,7 +285,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "Supervisores en ingener\u00eda de minas y de la construcci\u00f3n",
+                        "name": "SuIngener\u00eda de minas",
                         "size": 16
                     },
                     {
@@ -305,7 +305,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "T\u00e9cnicos en ciencias biol\u00f3gicas y afines",
+                        "name": "Ciencias biol\u00f3gicas",
                         "size": 16
                     },
                     {
@@ -315,7 +315,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "T\u00e9cnicos en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
+                        "name": "Navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
                         "size": 16
                     }
                 ],
@@ -361,7 +361,7 @@
                                 "size": 100
                             }
                         ],
-                        "name": "Operaciones de tecnolog\u00eda de la informaci\u00f3n  y asistencia al usuario",
+                        "name": "Operaciones de tecnolog\u00eda de la informaci\u00f3n",
                         "size": 16
                     },
                     {
@@ -478,7 +478,7 @@
                 "size": 200
             }
         ],
-        "name": "Agricultores, forestales y pesqueros"
+        "name": "Agricultores"
     },
     {
         "children": [
@@ -489,7 +489,7 @@
                         "size": 100
                     }
                 ],
-                "name": "Oficiales y operarios de la construcci\u00f3n excluyendo electricistas",
+                "name": "Operarios de la construcci\u00f3n (sin electricistas)",
                 "size": 25
             },
             {
@@ -499,7 +499,7 @@
                         "size": 100
                     }
                 ],
-                "name": "Oficiales y operarios de la metalurgia, la construcci\u00f3n mec\u00e1nica y afines",
+                "name": "Oficiales y operarios de la metalurgia",
                 "size": 25
             },
             {
@@ -515,7 +515,7 @@
             {
                 "children": [
                     {
-                        "name": "Trabajadores especializados en electricidad y la elecrotecnolog\u00eda",
+                        "name": "Trabajadores especializados en electricidad",
                         "size": 100
                     }
                 ],
@@ -525,7 +525,7 @@
             {
                 "children": [
                     {
-                        "name": "Procesamiento de alimentos, de la confecci\u00f3n, artesanos y afines",
+                        "name": "Procesamiento de alimentos, artesanos",
                         "size": 100
                     }
                 ],
@@ -577,7 +577,7 @@
                 "size": 50
             }
         ],
-        "name": "Ocupaciones elementales"
+        "name": "Otros"
     },
     {
         "children": [
