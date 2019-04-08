@@ -25,10 +25,22 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "Directores en distintos ambitos",
+                                "size": 100
+                            }
+                        ],
                         "name": "Directores en distintos ambitos",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Directores IT",
+                                "size": 100
+                            }
+                        ],
                         "name": "Directores IT",
                         "size": 16
                     }
@@ -54,26 +66,62 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "F\u00edsicos, qu\u00edmicos y afines",
+                                "size": 100
+                            }
+                        ],
                         "name": "F\u00edsicos, qu\u00edmicos y afines",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Matem\u00e1ticos, actuarios y estad\u00edsticos",
+                                "size": 100
+                            }
+                        ],
                         "name": "Matem\u00e1ticos, actuarios y estad\u00edsticos",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Profesionales en ciencias biol\u00f3gicas",
+                                "size": 100
+                            }
+                        ],
                         "name": "Profesionales en ciencias biol\u00f3gicas",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Ingenieros",
+                                "size": 100
+                            }
+                        ],
                         "name": "Ingenieros",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Ingenieros en electrotecnolog\u00eda",
+                                "size": 100
+                            }
+                        ],
                         "name": "Ingenieros en electrotecnolog\u00eda",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Dise\u00f1adores gr\u00e1ficos y multimedia",
+                                "size": 100
+                            }
+                        ],
                         "name": "Dise\u00f1adores gr\u00e1ficos y multimedia",
                         "size": 16
                     }
@@ -104,10 +152,22 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "Profesionales en finanzas, organizaci\u00f3n y ventas",
+                                "size": 100
+                            }
+                        ],
                         "name": "Profesionales en finanzas, organizaci\u00f3n y ventas",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Profesionales de ventas de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                                "size": 100
+                            }
+                        ],
                         "name": "Profesionales de ventas de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
                         "size": 16
                     }
@@ -118,10 +178,46 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "Desarrolladores de software",
+                                "size": 12
+                            },
+                            {
+                                "name": "Desarrolladores Web y multimedia",
+                                "size": 12
+                            },
+                            {
+                                "name": "Programadores de aplicaciones",
+                                "size": 12
+                            },
+                            {
+                                "name": "Otros",
+                                "size": 12
+                            }
+                        ],
                         "name": "Desarrolladores y analistas de software y multimedia",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Dise\u00f1adores y administradores de bases de datos",
+                                "size": 12
+                            },
+                            {
+                                "name": "Administradores de sistemas",
+                                "size": 12
+                            },
+                            {
+                                "name": "Profesionales en redes de computadores",
+                                "size": 12
+                            },
+                            {
+                                "name": "Otros",
+                                "size": 12
+                            }
+                        ],
                         "name": "Especialistas en bases de datos y en redes de computadores",
                         "size": 16
                     }
@@ -132,14 +228,32 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "Profesionales en derecho",
+                                "size": 100
+                            }
+                        ],
                         "name": "Profesionales en derecho",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Autores, periodistas y ling\u00fcistas",
+                                "size": 100
+                            }
+                        ],
                         "name": "Autores, periodistas y ling\u00fcistas",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Psic\u00f3logos",
+                                "size": 100
+                            }
+                        ],
                         "name": "Psic\u00f3logos",
                         "size": 16
                     }
@@ -155,22 +269,52 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos en ciencias f\u00edsicas e ingenier\u00eda",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos en ciencias f\u00edsicas e ingenier\u00eda",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "Supervisores en ingener\u00eda de minas, de industrias manufactureras y de la construcci\u00f3n",
+                                "size": 100
+                            }
+                        ],
                         "name": "Supervisores en ingener\u00eda de minas, de industrias manufactureras y de la construcci\u00f3n",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos de control de procesos",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos de control de procesos",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos en ciencias biol\u00f3gicas y afines",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos en ciencias biol\u00f3gicas y afines",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos y controladores en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos y controladores en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
                         "size": 16
                     }
@@ -211,10 +355,22 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos en operaciones de tecnolog\u00eda de la informaci\u0144 y las comunciaciones y asistencia al usuario",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos en operaciones de tecnolog\u00eda de la informaci\u0144 y las comunciaciones y asistencia al usuario",
                         "size": 16
                     },
                     {
+                        "children": [
+                            {
+                                "name": "T\u00e9cnicos en telecomunicaciones y radiodifusi\u00f3n",
+                                "size": 100
+                            }
+                        ],
                         "name": "T\u00e9cnicos en telecomunicaciones y radiodifusi\u00f3n",
                         "size": 16
                     }
