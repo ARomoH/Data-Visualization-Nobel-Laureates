@@ -5,11 +5,11 @@
             {
                 "children": [
                     {
-                        "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
+                        "name": "Directores ejecutivos y legislativos",
                         "size": 100
                     }
                 ],
-                "name": "Directores ejecutivos, personal directivo de la administraci\u00f3n p\u00fablica y miembros del poder ejecutivo y de los cuerpos legislativos",
+                "name": "Directores ejecutivos y legislativos",
                 "size": 25
             },
             {
@@ -51,11 +51,11 @@
             {
                 "children": [
                     {
-                        "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
+                        "name": "Gerentes de hoteles, restaurantes y otros servicios",
                         "size": 100
                     }
                 ],
-                "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
+                "name": "Gerentes de hoteles, restaurantes y otros servicios",
                 "size": 25
             }
         ],
@@ -172,7 +172,7 @@
                         "size": 16
                     }
                 ],
-                "name": "Especialistas en organizaci\u00f3n de la administraci\u00f3n publica y de empresas",
+                "name": "Organizaci\u00f3n de la administraci\u00f3n publica y de empresas",
                 "size": 25
             },
             {
@@ -222,7 +222,7 @@
                         "size": 16
                     }
                 ],
-                "name": "Profesionales de tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
+                "name": "Tecnolog\u00eda de la informaci\u00f3n y las comunicaciones",
                 "size": 25
             },
             {
@@ -258,7 +258,7 @@
                         "size": 16
                     }
                 ],
-                "name": "Profesionales en derecho, en ciencias sociales y culturales",
+                "name": "Derecho, en ciencias sociales y culturales",
                 "size": 25
             }
         ],
@@ -281,11 +281,11 @@
                     {
                         "children": [
                             {
-                                "name": "Supervisores en ingener\u00eda de minas, de industrias manufactureras y de la construcci\u00f3n",
+                                "name": "Supervisores en ingener\u00eda de minas y de la construcci\u00f3n",
                                 "size": 100
                             }
                         ],
-                        "name": "Supervisores en ingener\u00eda de minas, de industrias manufactureras y de la construcci\u00f3n",
+                        "name": "Supervisores en ingener\u00eda de minas y de la construcci\u00f3n",
                         "size": 16
                     },
                     {
@@ -311,15 +311,15 @@
                     {
                         "children": [
                             {
-                                "name": "T\u00e9cnicos y controladores en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
+                                "name": "T\u00e9cnicos en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
                                 "size": 100
                             }
                         ],
-                        "name": "T\u00e9cnicos y controladores en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
+                        "name": "T\u00e9cnicos en navegaci\u00f3n mar\u00edtima y aeron\u00e1utica",
                         "size": 16
                     }
                 ],
-                "name": "Profesionales de las ciencias y la ingenier\u00eda de nivel medio",
+                "name": "Ciencias y la ingenier\u00eda de nivel medio",
                 "size": 25
             },
             {
@@ -335,21 +335,21 @@
             {
                 "children": [
                     {
-                        "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
+                        "name": "Profesionales de nivel medio en operaciones financiera",
                         "size": 100
                     }
                 ],
-                "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
+                "name": "Profesionales de nivel medio en operaciones financiera",
                 "size": 25
             },
             {
                 "children": [
                     {
-                        "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales, culturales y afines",
+                        "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales",
                         "size": 100
                     }
                 ],
-                "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales, culturales y afines",
+                "name": "Profesionales de nivel medio de servicios jur\u00eddicos, sociales",
                 "size": 25
             },
             {
@@ -357,11 +357,11 @@
                     {
                         "children": [
                             {
-                                "name": "T\u00e9cnicos en operaciones de tecnolog\u00eda de la informaci\u0144 y las comunciaciones y asistencia al usuario",
+                                "name": "Operaciones de tecnolog\u00eda de la informaci\u00f3n  y asistencia al usuario",
                                 "size": 100
                             }
                         ],
-                        "name": "T\u00e9cnicos en operaciones de tecnolog\u00eda de la informaci\u0144 y las comunciaciones y asistencia al usuario",
+                        "name": "Operaciones de tecnolog\u00eda de la informaci\u00f3n  y asistencia al usuario",
                         "size": 16
                     },
                     {
@@ -469,16 +469,16 @@
                 "size": 25
             }
         ],
-        "name": "Trabajadores de los servicios y vendedores de comercios y mercados"
+        "name": "Vendedores de comercios y mercados"
     },
     {
         "children": [
             {
-                "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+                "name": "Agricultores, forestales y pesqueros",
                 "size": 100
             }
         ],
-        "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros"
+        "name": "Agricultores, forestales y pesqueros"
     },
     {
         "children": [
@@ -525,15 +525,15 @@
             {
                 "children": [
                     {
-                        "name": "Operarios y oficiales de procesamiento de alimentos, de la confecci\u00f3n, ebanistas, otros artesanos y afines",
+                        "name": "Procesamiento de alimentos, de la confecci\u00f3n, artesanos y afines",
                         "size": 100
                     }
                 ],
-                "name": "Operarios y oficiales de procesamiento de alimentos, de la confecci\u00f3n, ebanistas, otros artesanos y afines",
+                "name": "Procesamiento de alimentos, de la confecci\u00f3n, artesanos y afines",
                 "size": 25
             }
         ],
-        "name": "Oficiales, operarios y artesanos de artes mec\u00e1nicas y de otros oficios"
+        "name": "Artes mec\u00e1nicas y de otros oficios"
     },
     {
         "children": [
@@ -560,15 +560,15 @@
             {
                 "children": [
                     {
-                        "name": "Conductores de veh\u00edculos y operadores de equipos pesados m\u00f3viles",
+                        "name": "Conductores y operadores de equipos pesados m\u00f3viles",
                         "size": 100
                     }
                 ],
-                "name": "Conductores de veh\u00edculos y operadores de equipos pesados m\u00f3viles",
+                "name": "Conductores y operadores de equipos pesados m\u00f3viles",
                 "size": 25
             }
         ],
-        "name": "Operadores de instalaciones y m\u00e1quinas y ensambladores"
+        "name": "Operadores de instalaciones y m\u00e1quinas"
     },
     {
         "children": [
